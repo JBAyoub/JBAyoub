@@ -1,7 +1,7 @@
 👋 Hi, I’m @JBAyoub
 
 🚀 About Me:
-🎓 Detail-oriented and organized Software Engineer, freshly graduated and ready to conquer complex codebases.
+🎓 Detail-oriented and organized Software Engineer, freshly graduated and ready to conquer  codebases.
 🌍 Fluent in English, French, and German—so I can debug in three languages.
 🔥 A wizard with both Frontend and Backend technologies, creating seamless user experiences and robust systems.
 
