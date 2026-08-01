@@ -16,7 +16,6 @@ I do have a Bachelor's Degree in Business Intelligence and a Masters Degree in C
 
 🔭 &nbsp;I'm currently working on **Professional Flutter Codebases and Projects**  
 🌱 &nbsp;I'm currently learning **Software Architecture and Clean Code Principals**  
-😄 &nbsp;Pronouns: **He/him**  
 ⚡ &nbsp;Fun fact: **I used to dislike mobile development, until I discovered flutter...**
 
 ### 🛠️ Tech Stack
