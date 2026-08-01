@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-So many Software Engineers these days, I'm just a guy who likes learning tech things.. 
-I do have a Bachelor's Degree in Business Intelligence and a Masters Degree in Computer Science Engineering
+So many Software Engineers these days, I'm just a guy who likes learning tech things..\n
+I do have a Bachelor's Degree in Business Intelligence and a Masters Degree in Computer Science Engineering though!
 
 🔭 &nbsp;I'm currently working on **Professional Flutter Codebases and Projects**  
 🌱 &nbsp;I'm currently learning **Software Architecture and Clean Code Principals**  
