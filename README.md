@@ -14,9 +14,9 @@ So many Software Engineers these days, I'm just a guy who likes learning tech th
 <br>
 I do have a Bachelor's Degree in Business Intelligence and a Masters Degree in Computer Science Engineering though!
 
-🔭 &nbsp;I'm currently working on **Professional Flutter Codebases and Projects**  
-🌱 &nbsp;I'm currently learning **Software Architecture and Clean Code Principals**  
-⚡ &nbsp;Fun fact: **I used to dislike mobile development, until I discovered flutter...**
+ &nbsp;I'm currently working on **Professional Flutter Codebases and Projects**  
+ &nbsp;I'm currently learning **Software Architecture and Clean Code Principals**  
+ &nbsp;Fun fact: **I used to dislike mobile development, until I discovered flutter...**
 
 ### 🛠️ Tech Stack
 
